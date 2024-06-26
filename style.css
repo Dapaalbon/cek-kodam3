@@ -22,8 +22,8 @@ body::before {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
-    filter: blur(4px); /* Adjust the blur radius as needed */
-    z-index: -1; /* Ensure it stays behind other content */
+    filter: blur(4px);
+    z-index: -1; 
 }
 
 .container{
